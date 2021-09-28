@@ -1,6 +1,6 @@
 # Tempeh moulds v-02
 
-This repository contains the source files second version of the rectangle moulds we created to shape our tempeh's.
+This repository contains the source files for the second version of the rectangular moulds we created to shape our tempeh's.
 
 ![](img/IMG_5902.jpg)
 ![](img/IMG_5887.jpg)
